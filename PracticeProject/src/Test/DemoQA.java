@@ -18,6 +18,7 @@ public class DemoQA {
 		 driver.manage().window().maximize();
 		 driver.get("https://demoqa.com");
 		 Thread.sleep(2000);
+		 Thread.sleep(2000);//new change
 		
 		  for(int i=1;i<=6;i++)
 		  {
