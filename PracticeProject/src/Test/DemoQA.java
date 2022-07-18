@@ -19,6 +19,7 @@ public class DemoQA {
 		 driver.get("https://demoqa.com");
 		 Thread.sleep(2000);
 		 Thread.sleep(2000);//new change
+		 Thread.sleep(2000);//new changecommit
 		
 		  for(int i=1;i<=6;i++)
 		  {
